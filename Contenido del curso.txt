@@ -65,4 +65,3 @@ Sección 6: Integrate Allure Reporting
 21. Generate Allure Report - Part 1
 
 22. Generate Allure Report - Part 2
-
