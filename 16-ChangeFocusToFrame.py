@@ -11,7 +11,7 @@ class ChangeFocusToFrame(unittest.TestCase):
         driver = webdriver.Chrome('Recursos\\chromedriver.exe')
         driver.maximize_window()
         driver.get('http://www.goodstartbooks.com/pruebas/')
-        time.sleep(6)
+        time.sleep(3)
 
     def test1_change_focus_to_frame(self):
 
